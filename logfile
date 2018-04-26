@@ -1,0 +1,8 @@
+LOG:  database system was interrupted; last known up at 2017-10-12 14:56:24 CDT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  invalid record length at 0/2C7B6F20: wanted 24, got 0
+LOG:  redo is not required
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "myapp_development" does not exist
